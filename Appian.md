@@ -10,9 +10,10 @@
 
   My Ans: I used priorityqueue to retreive based on priority
   AI Ans: 
+  
    public static List<Alert> getTopNAlerts(List<Alert> alerts, int n) {
-        // Sort alerts by priority ascending
+   
         alerts.sort(Comparator.comparingInt(a -> a.priority));
-        // Return first N alerts
+       
         return alerts.subList(0, Math.min(n, alerts.size()));
     }
