@@ -1,23 +1,36 @@
 # Round-1 #
-2 DSA
+1. 2 DSA
 
-Consumer Producer Problem
+2. Consumer Producer Problem- Need to refer multi threading and concurrency topic
 
-mutable and Immutable in Java
+3. mutable and Immutable in Java
 
-Volatile,Syncronized in Java
+4. Volatile,Syncronized in Java
+
+5. Asked to write Singleton
+
+6. What is builder class
+
 
 # Round 2 #
 
 Asked from Resume
 
-Where ur app is running in Azure
+1. Where ur app is running in Azure
+Actual ans: App service
 
-Where u can see the production issues and solve it
+2. Where u can see the production issues and solve it
 
-What are the ways to cache Redis
+Azure Portal → Monitor → Alerts / Metrics / Logs
 
-Whether Cyclic Autowired is possible, y it is not possible , what is the name of the exception?
+3. What are the ways to cache Redis -
 
-How to find table is empty or not 
+Front end, Backend and Database
+
+4. Whether Cyclic Autowired is possible, y it is not possible , what is the name of the exception?
+
+Ans : Bean Instance exception
+
+5. How to find table is empty or not ?
+   
 
